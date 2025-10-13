@@ -1,1 +1,1 @@
-The goal of this project is to analyze flood-related data and develop a predictive model to classify flood severity or predict flood occurrence based on environmental and meteorological factors. This will aid in early warning systems and disaster preparedness.
+
